@@ -1,0 +1,18 @@
+#saveContactBtn {
+  padding: 10px 20px;
+  background: white;
+  color: #2541b2;
+  border: 2px solid #2541b2;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: all 0.2s;
+}
+
+#saveContactBtn:hover {
+  background: #2541b2;
+  color: white;
+}
+
+#saveContactBtn.dark-mode {
+  background: --dark-card;
+}

@@ -1,0 +1,157 @@
+@import url("saveContactsButtonStyle.css");
+@import url("darkTheme.css");
+@import url("./style/about.css");
+@import url("./style/social_link.css");
+@import url("./style/hero_section.css");
+@import url("./style/yalarba_investmen.css");
+@import url("./style/footer.css");
+
+:root {
+  --primary: #2c3e50;
+  --secondary: #3498db;
+  --light: #ecf0f1;
+  --dark: #1a252f;
+  --success: #2ecc71;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  min-width: 300px;
+  max-width: 1200px;
+  margin: 10px auto 5px auto;
+  padding: 10px 20px;
+  background-color: #f9f9f9;
+}
+header {
+  background-color: var(--primary);
+  color: white;
+  padding: 2rem 0;
+  text-align: center;
+  margin-bottom: 2rem;
+  border-radius: 10px;
+}
+h1,
+h2,
+h3 {
+  color: var(--secondary);
+}
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+#telegram a {
+  color: inherit;
+}
+
+.section {
+  background: rgb(226, 240, 241);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.skill-tag {
+  background-color: var(--secondary);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 1em;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+.timeline {
+  position: relative;
+  padding-left: 30px;
+}
+.timeline:before {
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--secondary);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+}
+.timeline-item:before {
+  content: "";
+  position: absolute;
+  left: -30px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--primary);
+  border: 2px solid var(--secondary);
+}
+.project-link {
+  display: inline-block;
+  color: var(--secondary);
+  text-decoration: none;
+}
+.project-link:hover {
+  text-decoration: underline;
+}
+
+
+/* Адаптация для мелких экранов */
+@media (max-width: 768px) {
+  header {
+    padding: 1rem 0;
+    font-size: 1.2rem;
+  }
+
+  .contact-info {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+  }
+
+  .section {
+    padding: 1.5rem;
+  }
+
+  .timeline {
+    padding-left: 20px; /* Уменьшаем отступ для линии времени */
+  }
+
+  .timeline:before {
+    left: 8px; /* Сдвигаем линию ближе к краю */
+  }
+
+  .timeline-item:before {
+    left: -20px; /* Сдвигаем маркер времени */
+  }
+
+  .skill-tag {
+    font-size: 0.8rem;
+  }
+
+  footer {
+    font-size: 0.8rem;
+  }
+}

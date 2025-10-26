@@ -1,0 +1,53 @@
+/* Yalarba Investment Section */
+.yalarba-section {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-left: 5px solid var(--secondary);
+}
+
+.yalarba-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.yalarba-tagline {
+    font-size: 1.2rem;
+    color: var(--primary);
+    font-style: italic;
+}
+
+.yalarba-stats {
+    display: flex;
+    justify-content: space-around;
+    margin: 2rem 0;
+    flex-wrap: wrap;
+}
+
+.stat {
+    text-align: center;
+    padding: 1rem;
+}
+
+.stat h3 {
+    font-size: 2.5rem;
+    color: var(--secondary);
+    margin: 0;
+}
+
+.yalarba-value ul {
+    list-style: none;
+    padding: 0;
+}
+
+.yalarba-value li {
+    padding: 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.investment-cta {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
