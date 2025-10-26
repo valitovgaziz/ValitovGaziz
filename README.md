@@ -1,5 +1,5 @@
 # Hi dear friend 👋
-**valitovgaziz/ValitovGaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**valitovgaziz/ValitovGaziz** is a ✨ _special_ ✨ repository
 - 🔭 I’m currently working on:
 ## Project ValitovGaziz.ru . This site about me and my project, skills and ather moments about me.
 ## Project Yalarba.ru . Site about Bashkortostan tourism pronts.
