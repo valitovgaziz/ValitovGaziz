@@ -58,7 +58,7 @@ function loadTermSheet() {
 function sendMessageTelegramm() {
   const message = prompt("Введите ваши контакты для получения информации от Газиза:");
   if (message) {
-    const BOT_TOKEN = "8470085635:AAEPZcsN3n-3FkMdr7DzxbiQ3q8mXZTGwug";
+    const BOT_TOKEN = "8470ҡғ85635:AAEPZcsN3n-3FkMdr7DzxваQ3q8mрZTGwug";
     const CHAT_ID = "559861569";
 
     // Используем FormData вместо JSON (более надежно)
