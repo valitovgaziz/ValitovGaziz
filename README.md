@@ -6,9 +6,9 @@ Hi there! I'm Gaziz, a dedicated developer focused on building meaningful web pr
 
 I'm currently channeling my energy into several key projects:
 
-- **ValitovGaziz.ru** - My personal portfolio website, showcasing my skills, projects, and professional journey.
-- **Yalarba.ru** - A platform dedicated to promoting tourism in the beautiful region of Bashkortostan. This is my current main focus.
-- **BegushiyBashkir.ru** - A website for the "Begushiy Bashkir" running club, founded by Zagir, to build and support a community of runners.
+- **https://ValitovGaziz.ru** - My personal portfolio website, showcasing my skills, projects, and professional journey.
+- **https://Yalarba.ru** - A platform dedicated to promoting tourism in the beautiful region of Bashkortostan. This is my current main focus.
+- **https://BegushiyBashkir.ru** - A website for the "Begushiy Bashkir" running club, founded by Zagir, to build and support a community of runners.
 
 ## 🌱 Current Focus & Collaboration
 
