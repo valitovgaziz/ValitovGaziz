@@ -22,7 +22,7 @@ Feel free to ask me about my projects, my tech stack, or anything else you think
 
 The best ways to get in touch are:
 
-- **Telegram**: @valitovgaziz
+- **Telegram**: https://t.me/valitovgaziz
 - **Email**: valitovgaziz@yandex.ru or valitovgaziz@gmail.com  
 - **Phone**: +7 (904) 451-34-47 / +7 (962) 543-93-43
 
