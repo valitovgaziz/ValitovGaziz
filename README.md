@@ -28,4 +28,4 @@ The best ways to get in touch are:
 
 ## ⚡ A Little Fun Fact
 
-I often dive into projects driven by pure curiosity and a passion for creation. Even when the initial "why" isn't always clear, the journey of building something new is what truly fuels me, giving me the energy to strive for a better future every day.
+I often take on projects driven by pure curiosity and a passion for creativity. Even when the initial "why" isn't always clear, the process of creating something that will benefit many people is what truly fuels me, providing the energy to pursue a better future every day.
